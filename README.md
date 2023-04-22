@@ -21,6 +21,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andrefeijosantos&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefeijosantos&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
---
-
 [![](https://visitcount.itsvg.in/api?id=andrefeijosantos&icon=1&color=11)](https://visitcount.itsvg.in)
