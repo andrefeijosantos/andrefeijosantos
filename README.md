@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 💫 About Me:
-🔭 I am currently studying in Universidade Federal de Viçosa (UFV)<br>
+🔭 I am currently studying at Universidade Federal de Viçosa (UFV)<br>
 💬 Ask me about C++, Python, Java and C<br>
 📫 How to reach me **andre.santos1@ufv.br**<br>
 
