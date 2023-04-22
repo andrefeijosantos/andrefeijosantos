@@ -17,10 +17,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-feij%C3%B3-dos-santos-2408a0251/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafazardo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafazardo&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafazardo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=andrefeijosantos&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrefeijosantos&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefeijosantos&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 --
 
-[![](https://visitcount.itsvg.in/api?id=rafazardo&icon=1&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=andrefeijosantos&icon=1&color=11)](https://visitcount.itsvg.in)
